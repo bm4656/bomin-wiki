@@ -1,6 +1,6 @@
 # Table of contents
 
-* [bomin\_wiki](README.md)
+* [🐇 Bomin wiki](README.md)
   * [React](readme/react/README.md)
     * [Page 2](readme/react/page-2.md)
   * [JavaScript](readme/javascript/README.md)
